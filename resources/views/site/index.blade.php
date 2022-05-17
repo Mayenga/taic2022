@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{ asset('siteimg/favicon.png') }}" rel="icon">
-  <link href="{{ asset('siteimg/apple-touch-icon.png') }}" rel="apple-touch-icon">
+  <link href="{{ asset('siteimg/ict.png') }}" rel="icon">
+  <link href="{{ asset('siteimg/ict.png') }}" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
@@ -55,23 +55,26 @@
           <!-- <li><a class="nav-link scrollto" href="#hotels">Hotels</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li> -->
           <li><a class="nav-link scrollto" href="#supporters">Sponsors</a></li>
-          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>TAIC Events</span> <i class="bi bi-chevron-down"></i></a>
           <ul>
-            <li><a href="#">Drop Down 1</a></li>
-            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+            <li class="dropdown"><a href="#"><span>2021 Event</span> <i class="bi bi-chevron-right"></i></a>
               <ul>
-                <li><a href="#">Deep Drop Down 1</a></li>
-                <li><a href="#">Deep Drop Down 2</a></li>
-                <li><a href="#">Deep Drop Down 3</a></li>
-                <li><a href="#">Deep Drop Down 4</a></li>
-                <li><a href="#">Deep Drop Down 5</a></li>
+                <li><a href="#">Investors Round Table</a></li>
+                <li><a href="https://ictawards.ictc.go.tz/" target="blank">ICT Awards</a></li>
+                <li><a href="#">Presentations</a></li>
+                <li><a href="#">Tourism</a></li>
+                <li><a href="#">Programs</a></li>
+                <li><a href="{{ asset('sitedocuments/TAIC2021_FINALREPORT.pdf') }}" target="blank">Report</a></li>
               </ul>
             </li>
-            <li><a href="#">Drop Down 2</a></li>
-            <li><a href="#">Drop Down 3</a></li>
-            <li><a href="#">Drop Down 4</a></li>
+            <li class="dropdown"><a href="#"><span>2020 Event</span> <i class="bi bi-chevron-right"></i></a>
+              <ul>
+                <li><a href="#">Programs</a></li>
+                <li><a href="#">Report</a></li>
+              </ul>
+            </li>
           </ul>
-        </li> -->
+        </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -87,7 +90,7 @@
       <h1 class="mb-4 pb-0">Tanzania Annual<br><span>ICT</span> Conference</h1>
       <p class="mb-4 pb-0">26-28 October, Zanzibar, Tanzania</p>
       <p style="text-align: center;font-size: 60px;margin-top: 0px;" id="demo"></p>
-      <a href="https://www.youtube.com/watch?v=EGmwziFP7cY" class="glightbox play-btn mb-4"></a>
+      <a href="" class="glightbox play-btn mb-4"></a>
       <a href="#about" class="about-btn scrollto">About The Event</a>
     </div>
   </section><!-- End Hero Section -->
